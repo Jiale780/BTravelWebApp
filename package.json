@@ -1,0 +1,17 @@
+{
+  "name": "bdd_assignment1",
+  "version": "1.0.0",
+  "description": "Restful_Apis_between_server&database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yeoh Jia Le",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1"
+  }
+}
